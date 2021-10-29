@@ -1,4 +1,3 @@
 # ABMLabs
-Sistema de laboratorios creado para la materia IOO
-
+Sistema de laboratorios
 
